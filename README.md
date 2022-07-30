@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Shult/Shult** is a ✨ _special_ ✨ repository that store the README.md for my Github profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - ✉️ : mestres.sin@gmail.com
   - [Linkdin](https://www.linkedin.com/in/sylvain-mestre-22173a190/)
--->
+
